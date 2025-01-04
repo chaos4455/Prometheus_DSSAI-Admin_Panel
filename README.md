@@ -1,8 +1,6 @@
 # 🚀 Prometheus Multi-API Core Gateway - Interface de Gerenciamento 
 
-<p align="center">
-  <img src="https://i.imgur.com/f4d5vPq.png" alt="Replika AI Logo" width="100">
-</p>
+
 
 Olá! 👋 Bem-vindo ao repositório da interface web para o **Prometheus Multi-API Core Gateway**, um projeto desenvolvido por **Elias Andrade** para a **Replika AI Solutions**. Esta interface, construída com React, Zustand, Tailwind CSS, e um design moderno e responsivo, oferece uma forma intuitiva e eficiente de gerenciar o seu ecossistema de APIs para integrações avançadas de Inteligência Artificial.
 
@@ -27,63 +25,57 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 -   **🎨 [Tailwind CSS](https://tailwindcss.com/):** Framework CSS utilitário para uma estilização rápida e consistente.
 -   **💡 [Prometheus Multi-API Core Gateway](https://www.replika.com.br/):** A base para esta interface, projetada para integrações avançadas de IA.
 
-## 🛠️ Configuração e Desenvolvimento
-
-Siga as instruções abaixo para configurar o ambiente de desenvolvimento e executar o projeto:
-
-1.  **Clonar o repositório:**
-    ```bash
-    git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
-    cd NOME_DO_REPOSITORIO
-    ```
-2.  **Instalar as dependências:**
-    ```bash
-    npm install
-    ```
-3.  **Executar o projeto:**
-    ```bash
-    npm start
-    ```
-    A aplicação estará disponível em `http://localhost:3000`.
 
 ## 🖼️ Capturas de Tela
 
-<p align="center">
-  <img src="https://i.imgur.com/o7x6p11.png" alt="Dashboard" width="800"><br>
-  Dashboard Principal
-</p>
+![chrome_K0xSWIcdJh](https://github.com/user-attachments/assets/059c328a-8d52-432c-bec4-3cf368edfdab)
 
-<p align="center">
-    <img src="https://i.imgur.com/j9mU10R.png" alt="Configurações" width="300">
-    <img src="https://i.imgur.com/Jb9k67s.png" alt="Notificações" width="300"><br>
-  Configurações e Notificações
-</p>
+![chrome_Uivxw6vQCU](https://github.com/user-attachments/assets/dabe1018-2307-4ffb-8c13-293fd329c0ca)
 
-<p align="center">
-  <img src="https://i.imgur.com/8b2K9bT.png" alt="API Input Sources" width="600"><br>
-    Configuração de Fontes de Entrada de API
-</p>
+![chrome_tL20thAoZr](https://github.com/user-attachments/assets/04dc3f56-585c-480e-9c5c-8c84b06677fc)
 
-<p align="center">
-    <img src="https://i.imgur.com/1Tf0jE6.png" alt="Import Configuration" width="300">
-     <img src="https://i.imgur.com/yS9t31y.png" alt="Export Configuration" width="300"><br>
-    Importar e Exportar Configurações
-</p>
+![chrome_353EEtLnoc](https://github.com/user-attachments/assets/3e12a8ac-68b9-409e-a9b8-81795734e182)
 
-<p align="center">
-    <img src="https://i.imgur.com/6Vf4L0s.png" alt="Document Sources" width="600"> <br>
-    Fontes de Documentos
-</p>
+![chrome_Uek7x7Asv8](https://github.com/user-attachments/assets/8c721e98-7d6e-409f-a047-d84c3daef01b)
 
-<p align="center">
-    <img src="https://i.imgur.com/4fL6Vl5.png" alt="API Output Endpoints" width="600"> <br>
-    Saídas de API
-</p>
+![chrome_ip9MjXdAik](https://github.com/user-attachments/assets/4342a931-5757-4a7f-b070-d8ee57430c3b)
 
-<p align="center">
-  <img src="https://i.imgur.com/9k9pM3a.png" alt="Edit API" width="300"><br>
-  Edição de API
-</p>
+![chrome_XbQptGKmtJ](https://github.com/user-attachments/assets/b3ef61f7-dd3b-4518-aa16-c3a5a2c6944e)
+
+![chrome_QGh9ghVe26](https://github.com/user-attachments/assets/0c2500a1-3f3d-4f23-b498-ef5d9c51903f)
+
+![chrome_5zbOvUlUer](https://github.com/user-attachments/assets/fc48937c-2a1b-49a0-a90f-4b40d23ff304)
+
+![chrome_8SR7Cc7zRL](https://github.com/user-attachments/assets/d0b4d74c-f2b9-4a69-8cb6-0b259c8526db)
+
+![chrome_bGDjw24ewS](https://github.com/user-attachments/assets/dd2b2434-3f50-4fd0-9aaf-fa1aa500c261)
+
+![chrome_N4Tw4ehkuZ](https://github.com/user-attachments/assets/e94a685e-cf1c-41da-965e-afe5fd1cf3a9)
+
+![chrome_67XiM7Qz18](https://github.com/user-attachments/assets/fe1e5acb-4e4b-408b-9f2a-befcce29ad04)
+
+![chrome_Jlbk9EJ4hf](https://github.com/user-attachments/assets/96dda7bd-5879-48c8-9910-145803120e88)
+
+![chrome_FWJVXMva0p](https://github.com/user-attachments/assets/af95b3a9-70fd-4e3a-9557-2bc205b3f019)
+
+![chrome_JRLyh7yOe0](https://github.com/user-attachments/assets/8ef9c0ba-0623-4016-b2ee-3f9ace85ab40)
+
+![chrome_A1ZdijtU6e](https://github.com/user-attachments/assets/9e96774b-a3ed-43ca-ae4f-6d4517ff2dc8)
+
+![chrome_VqYlMVfS8D](https://github.com/user-attachments/assets/c7507282-799b-47af-9f6d-3623834effa8)
+
+![chrome_zjsgPWFpTI](https://github.com/user-attachments/assets/b836ad2f-64ed-4f0e-af59-2346c53a53df)
+
+![chrome_yZSTknphHa](https://github.com/user-attachments/assets/d9cfecb7-e0d4-481f-9848-53fa03f3f909)
+
+![chrome_zqrdrccSAB](https://github.com/user-attachments/assets/60f7e6fa-37eb-4a6e-a0ba-77755ea2e8f7)
+
+![chrome_byrKVqxdFb](https://github.com/user-attachments/assets/5a537e05-b772-47e6-8ae6-7382cb2d8f66)
+
+![chrome_cTHVAAlhdl](https://github.com/user-attachments/assets/b8af3e71-f2f1-4581-8c5d-69a8594c7d31)
+
+![chrome_1soEGjyvPm](https://github.com/user-attachments/assets/1b5e04df-aba6-49e0-bc4c-dfdff9566509)
+
 
 ## 💼 Portfólio e Contribuições
 
@@ -91,20 +83,10 @@ Este projeto faz parte do meu portfólio como desenvolvedor Full-Stack e demonst
 
 **Contribuições são bem-vindas!** Se você tiver alguma ideia ou correção, abra uma *issue* ou um *pull request*.
 
-## 🙋‍♂️ Sobre Mim
 
-**Elias Andrade**
+**Elias Andrade - 2024 - 2025**
 
--   👨‍💻 Desenvolvedor Full-Stack na **Replika AI Solutions**
--   📧 Email: [seu_email@email.com](mailto:seu_email@email.com)
--   🌐 Site: [www.replika.com.br](https://www.replika.com.br/)
--   🔗 LinkedIn: [seu_linkedin_url](https://www.linkedin.com/in/seu_perfil)
--   🗂️ GitHub: [seu_github_url](https://github.com/seu_usuario)
-
-## 📜 Licença
-
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
 
 ---
 
-Desenvolvido com ❤️ por **Elias Andrade** na **Replika AI Solutions**.
+Desenvolvido com ❤️ por **Elias Andrade** by **Replika AI Solutions**.
